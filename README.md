@@ -1,2 +1,2 @@
-# VeRoLog-Challange-2019
-The VeRoLog Solver Challenge 2019 revolves around an exciting routing problem which combines distribution and subsequent installation of equipment, such as vending machines. We challenge you to use your creativity, problem solving and programming skills to find the cheapest solution.
+# VeRoLog Solver Challenge 2019: Optimal Routing and Installation
+Welcome to my GitHub project for solving the VeRoLog Solver Challenge 2019! This repository contains my approach to tackling an exciting and complex routing problem, which involves the distribution and subsequent installation of equipment, such as vending machines. The challenge is to develop an algorithm that minimizes the overall cost, combining my creativity, problem-solving skills, and programming expertise.
